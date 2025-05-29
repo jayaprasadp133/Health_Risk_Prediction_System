@@ -43,10 +43,10 @@ This project aims to predict health risks using wearable health band data and re
 
 ## 📡 Technologies Used
 
-- C++ (ESP32 Arduino)
+- C (ESP32 Arduino)
 - Python (Google Colab)
 - ThingSpeak API
-- GSM/Location Tracking
+- GPS for Location Tracking
 - MAX30100 Sensor
 - WiFi/HTTP for IoT communication
 
@@ -66,6 +66,4 @@ ORCID: [0009-0007-3720-855X](https://orcid.org/0009-0007-3720-855X)
 
 ---
 
-## 📄 License
 
-This project is open-source under the MIT License.
