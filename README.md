@@ -18,12 +18,14 @@ This project aims to predict health risks using wearable health band data and re
 
 ## 📁 Folder Structure
 
-HealthRiskPredictionSystem/
+<pre>HealthRiskPredictionSystem/
 ├── NodeMCU_Code/
 │ └── health_monitoring_nodemcu.ino
+├── Env_data_for_model_train/
+   └── health_env_data.csv
 ├── GoogleColab_Notebook/
 │ └── health_risk_prediction.ipynb
-├── README.me
+├── README.me</pre>
 
 
 ---
